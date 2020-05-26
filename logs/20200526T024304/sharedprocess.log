@@ -1,0 +1,3 @@
+[2020-05-26 02:43:09.003] [sharedprocess] [info] main {"machineId":"df2b18c2b506f2adeef420d712a65d4cb2170fab57d60816f2c4feb53c539bb7","windowId":2}
+[2020-05-26 02:43:09.106] [sharedprocess] [error] [File Watcher (node.js)] Error: ENOENT: no such file or directory, stat '/home/bmedina/andres/User/snippets'
+[2020-05-26 02:43:49.044] [sharedprocess] [info] Starting to clean up unused language packs.
